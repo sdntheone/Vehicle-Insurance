@@ -1,2 +1,2 @@
 # Vehicle-Registration
-This repo is about the Vehicle Registraion Project using MLOps
+This repo is about the Vehicle Insurance Project using MLOps
