@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: vehicle-insurance-predictor
+    env: docker
+    dockerfilePath: Dockerfile
+    plan: free
